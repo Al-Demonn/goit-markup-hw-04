@@ -493,7 +493,6 @@ width: calc((100%-3*24px)/4);
 .footer-soc-box {
 	width: 208px;
 	height: 80px;
-
 }
 
 .soc-text {
@@ -507,9 +506,8 @@ width: calc((100%-3*24px)/4);
 	gap: 16px;
 }
 
-.footer-soc-box .social-networks-link:hover,.footer-soc-box .social-networks-link:focus {
+.footer-soc-box .social-networks-link:hover, .footer-soc-box .social-networks-link:focus {
 	background-color: #31D0AA;
 }
-
 
 /* #endregion footer */
