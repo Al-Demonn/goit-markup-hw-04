@@ -306,8 +306,6 @@ width: calc((100%-3*24px)/4);
 	box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 	background: #fff;
 	border-radius: 0 0 4px 4px;
-	width: 264px;
-	height: 428px;
 	width: calc((100% - 72px) / 4);
 }
 
@@ -316,8 +314,6 @@ width: calc((100%-3*24px)/4);
 	align-items: center;
 	flex-direction: column;
 	padding: 32px 0;
-	/* width: 232px; */
-	height: 104px;
 }
 
 .team-text {
@@ -327,7 +323,7 @@ width: calc((100%-3*24px)/4);
 	letter-spacing: 0.02em;
 	text-align: center;
 	color: #434455;
-	margin: 8px;
+	margin-bottom: 8px;
 }
 
 .team-box .social-networks {
